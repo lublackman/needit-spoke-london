@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Days Ago Date">9b7929c14f612300b259a88ca310c7a9</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Action Test Flow">47c325014f612300b259a88ca310c7ed</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-01 18:34:51</sys_created_on>
+        <sys_id>a5bba1454f612300b259a88ca310c718</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_284939_needit_sp">9062254d4f212300b259a88ca310c72a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">9062254d4f212300b259a88ca310c72a</sys_scope>
+        <sys_update_name>sys_hub_action_instance_a5bba1454f612300b259a88ca310c718</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-01 18:46:29</sys_updated_on>
+        <ui_id>ee045969-a14b-43fd-8480-14f19c33be03</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=a5bba1454f612300b259a88ca310c718"/>
+</record_update>
